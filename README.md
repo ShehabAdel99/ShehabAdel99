@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm Shehab Adel</h1>
-<h3 align="left">Data Science Master's student</h3>
+<h3 align="left">Data Science Master's Student</h3>
 
 <p>
 Master’s student in Data Science at TU Dortmund University with a solid foundation in statistics, machine learning, and computer vision. Experienced in applying data-driven methods to extract insights and develop AI-powered solutions. Skilled in Python, TensorFlow, PyTorch, and cloud platforms such as AWS. Published IEEE researcher with a passion for solving real-world problems through analytics, modeling, and intelligent systems. Eager to contribute to innovative projects in AI, ML, and data science across research or industry. 
